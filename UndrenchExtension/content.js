@@ -33,7 +33,7 @@ chrome.runtime.onMessage.addListener(function(msg, sender, sendResponse) {
                 $('#infomation').html('colorMax ' + colorMax);
                 $('#b' + (colorMax+1)).trigger('click');
                  nextMove();
-             }, 280);
+             }, 1280);
         }
         nextMove();
         // $('#testBTN').click(function(){
