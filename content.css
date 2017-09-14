@@ -1,0 +1,26 @@
+#testCanvasholder {
+    width: 378px;
+    height: 378px;
+    position: absolute;
+    top: 205px;
+    left: 1040px;
+}
+
+#testCanvasholder>div {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+
+
+#testBTN {
+    position: absolute;
+    top: 10px;
+    right: 100px;
+}
+
+#infomation {
+    position: absolute;
+    top: 30px;
+    right: 100px;
+}
